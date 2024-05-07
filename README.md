@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js MongoDB Node.js Express.js**
 
-- 👨‍💻 Here is my portfolio [[https://amirachowdhury.github.io/My-Portfolio/](https://amirachowdhury.github.io/My-Portfolio/)](https://amirachowdhury.github.io/My-Portfolio/)
+- 👨‍💻 Here is my portfolio https://amirachowdhury.github.io/My-Portfolio/
 
 - 📫 How to reach me **chowdhuryamira1998@gmail.com**
 
