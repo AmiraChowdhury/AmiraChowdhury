@@ -9,9 +9,9 @@
 
 - 👨‍💻 Here is my portfolio (https://amirachowdhury.github.io/My-Portfolio/)
 
-- 📫 How to reach me **chowdhuryamira1998@gmail.com**
+- 📫 How to reach me **amirachyy@gmail.com**
 
-- ⚡ Fun fact **My sense of dates is terrible**
+- ⚡ Fun fact **I have a habit of remembering random trivia that always seems to pop up at the most unexpected times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
