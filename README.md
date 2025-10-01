@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amira Mostafa</h1>
-<h3 align="center">I am a computer science student with a passion for technology. Currently studying towards a bachelor's degree in computer science.</h3>
+<h1 align="center">Hi 👋, I'm Amira Mostafa Chowdhury</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirachowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="amirachowdhury" /> </p>
 
