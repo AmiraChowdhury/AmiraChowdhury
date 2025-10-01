@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirachowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="amirachowdhury" /> </p>
 
-- 🔭 I’m currently working on **my 4th year project named CarSeller.com**
-
-- 🌱 I’m currently learning **React.js MongoDB Node.js Express.js**
-
 - 👨‍💻 Here is my portfolio (https://amirachowdhury.github.io/My-Portfolio/)
 
 - 📫 How to reach me **amirachyy@gmail.com**
