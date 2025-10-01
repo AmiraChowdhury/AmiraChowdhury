@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirachowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="amirachowdhury" /> </p>
 
-- 👨‍💻 Here is my portfolio (https://amirachowdhury.github.io/My-Portfolio/)
-
 - 📫 How to reach me **amirachyy@gmail.com**
 
 - ⚡ Fun fact **I have a habit of remembering random trivia that always seems to pop up at the most unexpected times**
